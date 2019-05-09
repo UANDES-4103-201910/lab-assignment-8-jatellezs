@@ -11,6 +11,28 @@ html {
 	flex-wrap: nowrap;
 	justify-content: flex-start;
 	align-items: center;
+	background-color: #000;
+}
+
+#footer {
+   position:fixed;
+   bottom:0;
+   width:100%;
+   text-align: center;
+}
+
+#textspace {
+	color: #00F900;
+	white-space:pre-wrap;
+	margin-bottom: 261px;
+
+}
+
+#textspace2 {
+	color: #00F900;
+	white-space:pre-wrap;
+	margin-bottom: 261px;
+
 }
 
 .keyboard_row {
